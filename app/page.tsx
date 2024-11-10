@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 import { TextHoverEffect } from "@/components/ace/text-hover-effect";
 
 export default function Home() {
